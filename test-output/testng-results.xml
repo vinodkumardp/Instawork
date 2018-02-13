@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15879" started-at="2018-02-13T10:13:48Z" finished-at="2018-02-13T10:14:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15879" started-at="2018-02-13T10:13:48Z" finished-at="2018-02-13T10:14:04Z">
+      <class name="com.instawork.testcases.Testcases">
+        <test-method status="PASS" signature="Instawork()[pri:0, instance:com.instawork.testcases.Testcases@2a5ca609]" name="Instawork" duration-ms="15869" started-at="2018-02-13T15:43:48Z" finished-at="2018-02-13T15:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Instawork -->
+      </class> <!-- com.instawork.testcases.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
